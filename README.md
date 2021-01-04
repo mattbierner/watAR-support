@@ -10,7 +10,7 @@ This repo provides documentation on using watAR. If you run into any issues or h
 
 To get started with watAR, first you need to select a real world surface to apply the water effect to. You can place the effect on any flat horizontal or vertical surfaces. The app will walk you through the placement process.
 
-> 🎵 **Note**: Pinch to scale the placed plane up and down. This also works after you have place the plane.
+> 🎵 **Note**: Pinch to scale the placed plane up and down. This also works after you have placed the plane.
 
 If you are having trouble placing the effect:
 
@@ -102,5 +102,5 @@ Love watAR? Be sure to tell your friends about it and share any cool content you
 
 Run into a bug or want to request a new feature? Just [file an issue][issues]!
 
-[app]: todo
+[app]: https://apps.apple.com/us/app/watar/id1546980861
 [issues]: https://github.com/mattbierner/watar-support/issues
